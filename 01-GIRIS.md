@@ -1,4 +1,4 @@
-# Giris 
+# GIRIS 
 
 Acik Parti bir genis vizyon partisidir. 
 
