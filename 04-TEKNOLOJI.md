@@ -1,3 +1,24 @@
 # TEKNOLOJI
 
-\[ Burada teknoloji konusundaki fikirler paylasilacak. \]
+Öyle teknolojiler vardır ki, onları kontrol etmezseniz ulusal egemenliğiniz yalan olur. Eskiden sadece bir bayrak, bir marş, bir dil ve coğrafi sınırlar kavramlarıyla tanımlanan egemenlik kavramı bugün teknoloji ile beraber çok daha geniş bir hal almış vaziyette, ve sürekli de genişlemekte. Pekiyi, nedir egemenlik teknolojileri?
+
+Bugün Huawei-ABD çekişmesine ve mobil 5G teknolojisi konusunda ABD’nin diğer ülkeler üstünde yaptığı baskıya bakacak olursanız aslında egemenlik teknolojilerinin ne olduğunun gayet iyi farkına varırsınız. Keza, ABD’deki internet şirketleriyle ortaya çıkan Prism skandalı da aynı şekilde bu tanımın en iyi göstergelerindendir.
+
+Egemenlik teknolojisi bir ulusun kendi vatandaşları üstünde ayrıntılı bilgilere erişim sağlama potansiyeline sahip stratejik olarak kilit ve paylaşılamaz teknolojilere verilmesi gereken isimdir. Böylesi teknolojiler başka ülkeler elinde olduğu anda siz kendi ülkenizin Nüfus Veritabanının anahtarını ve hatta daha fazlasını başka bir ülkenin ellerine teslim etmiş olursunuz. Bu yüzdendir ki, Çin ve Rusya gibi egemenliğine büyük önem arz eden ülkelerin egemenlik teknolojisi alanlarında yabancı oyunculara asla açık oynamadıklarını ve katı ketum bir tutum içinde olduklarını görürsünüz. Örneklendirmek gerekirse:
+
+* Çin’in yıldızı arama motoru konusunda hiçbir zaman Google ile barışmadı. Onun yerine Baidu isimli yerli bir şirketin önü açıldı
+* Aynı şekilde Rusya’da Google’a yapılan yavaşlatma stratejisi işe yaradı ve halihazırda her ne kadar daha kalitesiz bir endeksleme yaptığı söylense de Rus Yandex ülkesinin lider arama motoru konumunda.
+
+Öte yandan ABD içindeki agresif kapitalizm şirketler arası rekabeti beraberinde getirdi, ve çok kritik teknolojilerin açık kaynak yapılmasına; bu önemli fikri mülkiyetlerin herkesin paylaşımına açılmasına neden oldu. Örneğin, temelinde IBM-Microsoft rekabetinden nemalanarak büyüyen açık kaynak kodlu Linux işletim sistemi gibi... Bu öyle bir rekabetti ki, Windows gibi bir dönemlerin en önemli fikri mülkiyetlerinden birinin muadilinin bütün dünyaya olduğu gibi verilmesine yol açtı.
+
+Egemenlik teknolojilerine geri dönecek olursak, “neden arama motoru bir egemenlik teknolojisidir” sorusuyla devam edebiliriz. Bunun cevabı çok zor değil; çünkü her bir vatandaşın ilgi haritası, hem de bir zaman çizelgesi üstünde olmak avantajıyla, bu motorlar üstünde kayıt altına alınıyor. Arama motoruna hakim kuvvet hangi bireylerin hangi konularla ilgilendiği, hangi motivasyonlara sahip olduğu, sosyo-ekonomik-kültürel durumları bilgilerine vakıf olur ki, bunlar da son derece mühim birer istihbarati bilgidir. Bu bilgiler kullanılarak o ülkedeki farklı ideolojilerdeki demografik gruplar belirlenip harekete geçirilmeleri ya da “tetikçilerin” istihdam edilmesi işten bile olmaz.
+
+Aynı şekilde Facebook, Twitter, Snapchat, Tiktok, Whatsapp gibi sosyal ağlar ve iletişim kanalları da öyledir, çünkü onlar da kendi içlerinde derin birer sosyal harita bilgisi  barındırır. İlgilerine sahip olduğunuz bir kimsenin kimlerle arkadaş olduğunu, kimlerle diyalog içinde olduğunu, bu diyalogların içeriğini ve kimin kimden etkilendiğini bilmek bu güce hakim olan odaklara büyük avantajlar sağlar. Bu avantajın ticari kullanımı hiper-hedefli reklamlar şeklinde olsa da, karanlık tarafta, bu bilgiler istihbarat operasyonları ve casus istihdam etmek için de kullanılabilir.
+
+Bu ikisi dışında bugün internetin yaygınlaşması, büyük verinin işlenebilirliğinin kolaylaşması ve verinin engelsiz dolaşımı sayesinde hemen hemen her yeni teknoloji aslında egemenlik teknolojisi olarak değerlendirilebilir. Her yeri kameralarla donatılmış bir Uber aracından tutun turistik konaklamayı yeniden icat eden airbnb’ye, Google’ın evlere giren Nest teknolojisinden Apple ürünlerine hemen hemen bu markaların her biri birer egemenlik teknolojisi olarak sınıflandırılabilir. Bu sebepledir ki Apple ve Google Nest’e karşı ortaya çıkan Xiaomi ABD’deki teknoloji çevreleri tarafından büyük bir tehlike olarak arz edilmektedir. 5G’de önemli bir oyuncu olan Cisco, Nokia, Ericsson gibi firmaları tehdit eden Huawei keza öyledir.
+
+Sonuç olarak, Türkiye egemenlik teknolojilerini sıkıca belirleyip, kısıtlı kaynaklarla hangi alanlarda teknoloji egemenliğinden taviz vermeyeceğinin kararını iyi vermelidir.  Bilinçli ve uyanık olunması esastır. Bilinçli ve uyanık olunursa, Getir gibi uluslararası arenada var olacak yerli oyuncuların ortaya çıkması için eliniz güçlenir ve küresel sistemde uyumlu bir şekilde pozisyon alınabilir. Türkiye özgüvenli olmalıdır, çünkü;
+
+* Son yirmi senede büyüyen açık kaynak dalgası sayesinde çoğu bilgi artık hiç olmadığı kadar demokratize şekilde paylaşılmış durumda, 
+* Türkiye iyi bir yetenek havuzuna sahip 
+* ve ülke Pakistan, Ukrayna gibi geniş bir coğrafya ve farklı ülkelerden yabancı  yetenekleri ülkesine çekebilecek avantajlı bir sosyo-kültürel iklim rüzgarını arkasına almış vaziyette.
