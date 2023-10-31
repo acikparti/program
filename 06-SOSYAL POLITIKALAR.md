@@ -1,3 +1,3 @@
 # SOSYAL POLITIKALAR
 
-\[ Burada sosyal politikalar konusundaki fikirler paylasilacak. \]
+* Kucuk devlet hedefi
