@@ -1,6 +1,6 @@
 # GIRIS 
 
-\[ Burada parti vizyonu anlatilir. \]
+Teknoloji vizyonu. Bitcoin, ChatGPT yapay zeka. Dunyaya entegre bir devlet. Ama yeterlikli. Dunyaya daha cok ihrac eden. 
 
 ## MENES VIZYONU
 
