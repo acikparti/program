@@ -1,3 +1,3 @@
 # EKONOMI
 
-\[ Burada ekonomi konusundaki fikirler paylasilacak. \]
+* Bitcoin gibi bir stabil-coin'a gecis.
