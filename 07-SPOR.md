@@ -1,3 +1,3 @@
 # SPOR
 
-\[ Burada spor konularindaki fikirler paylasilacak. \]
+* Sporda milli hedefler; ornegin olimpiyat basari, acik oduller.
