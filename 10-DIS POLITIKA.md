@@ -9,3 +9,5 @@ Selfish olamazlar.
 Selflessness Hucresi gibi.
 
 Separation of powers may include this.
+
+Yeni Dunya Duzeni
