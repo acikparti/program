@@ -11,3 +11,5 @@ Selflessness Hucresi gibi.
 Separation of powers may include this.
 
 Yeni Dunya Duzeni
+
+Bazi ulke vatandaslarina otomatik calisma/oturma izni. Karsiliginda?
